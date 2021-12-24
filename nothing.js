@@ -35,7 +35,7 @@ body {
 <body>
 
 <video autoplay loop id="myVideo">
-  <source src="assets/vid/vid.mp4" type="video/mp4">
+  <source src="https://ucp.sampindo.id/Screens/vid.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
 
