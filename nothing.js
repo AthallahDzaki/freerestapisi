@@ -1,4 +1,3 @@
-let doc = `
 <!DOCTYPE html>
 <html>
 <head>
@@ -42,10 +41,3 @@ body {
 
 </body>
 </html>
-`
-
-function CheckEasterEgg() {
-    if($("#human").val() == "NaN") {
-        document.write(doc);
-    }
-}
